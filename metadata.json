@@ -1,0 +1,6 @@
+{
+  "name": "Iris MLOps Lab",
+  "description": "A comprehensive MLOps platform for training, evaluating, and monitoring Iris detection models using TensorFlow.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MLOps", "Model Training", "Data Visualization"]
+}
